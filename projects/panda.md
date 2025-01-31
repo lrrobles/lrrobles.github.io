@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/foodland-logo.png
+image: img/Panda.png
 title: "PANDA"
 date: 2024
 published: true
