@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/UH-Bands-Logo.png
+image: img/foodland-logo.png
 title: "Foodland Bakery"
 date: 2022
 published: true
