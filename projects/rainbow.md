@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/UH-Bands-Logo.png
 title: "Rainbow Invitational"
 date: 2019
 published: true
