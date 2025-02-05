@@ -19,7 +19,7 @@ After learning some TypeScript, I can definitely say that the language was not t
 
 From what I learned so far in the semester, I think that TypeScript is a good programming language from a software engineering perspective because it makes you be explicit when it comes to variable and return types. Thinking about it, I did not even notice that JavaScript had no typing when it comes to variables. So TypeScript having typing for variables sounds like it would make things a lot more clear for fellow software engineers looking at said code.
 
-## What!? Exercising in my CS Class?!
+## What!?! Exercising in my CS Class?!?
 
 One of the challenges introduced to me this semester was something called WODs, or Workout of the Day(s). This style of learning had us students have to code a solution to a problem within a set amount of time. Once we had our time, there were "tiers" of the amount of time it takes to solve the problem, where the faster the better.
 
