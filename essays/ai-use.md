@@ -1,16 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "AI Use"
+title: "AI Use in Education"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-12
 published: true
 labels:
   - AI
+  - Education
+  - ICS 314
 ---
 
 ## I. Introduction
 
+After coming back from a small hiatus in Fall 2024, I slowly realized that AI has become a very big part of education these days. My peers seem to finish assignments at a much faster rate than I do, and it makes me feel left behind. Though it does not make me feel good comparatively, that is a big benefit to using Artificial Intelligence: it can get things done quickly. When taking ICS 314 during the Spring 2025 semester, I only used a little bit of ChatGPT towards the end, and in hindsight, it did not make me feel good. So the question I want to ask is: Is using AI in education worth it?
 
 ## II. Personal Experience with AI:
 
@@ -82,7 +85,11 @@ In my opinion, I hope the use of AI in education is a bit more regulated in the 
 
 ## VIII. Conclusion:
 
+Generally (if it was not obvious already), I am against heavy (keyword: heavy) usage of AI in the Software Engineering Course and in the ICS courses. If you use it to generate code or the answers to your homework, you are taking away the entire point of learning and losing your ability to think. I feel like as students in the Computer Science field, we should definitely strive to be better than AI, which will come with its stress and struggles, but will be worth it in the end.
 
+To answer the question, "Is using AI in education worth it?": I think it entirely depends on how you use it. Of course it is not worth it if you are using it to do your assignment for you. To get the most out of AI, I think it is best to ask it questions such as "What does ___ do in this line of code?", as you are not just copy and pasting your entire homework in the prompt, but rather just doing a quick fact check to understand how a small thing works in order to broaden your knowledge.
+
+In a nutshell, do not let Artificial Intelligence take away your human advantage to critically think!
 
 
 
