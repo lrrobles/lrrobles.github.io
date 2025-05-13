@@ -9,6 +9,9 @@ labels:
   - AI
 ---
 
+## I. Introduction
+
+
 ## II. Personal Experience with AI:
 
 1. Experience WODs
@@ -55,6 +58,29 @@ I rarely used AI in ICS 314, so nothing.
 
 ## III. Impact on Learning and Understanding: 
 
+I barely used AI this semester, my one usage of AI was during the final project, and the number one thing I got out of that experience was that I did not do anything, AI did a task that I should have done. In this situation, I outsourced my thinking to ChatGPT and when you think about it, it is kind of scary. That being my first heavy AI usage, I was honestly quite amazed at what it was able to accomplish, but a little sad as well because what would be the point of programmers, especially those at the junior level, if AI can do it so easily? 
+
+Looking back, I definitely could have used ChatGPT to break down the implementation of the slider form one-by-one instead of having it do it for me, but I was overly stressed and time was ticking away. Thus, that will definitely be an experience I will remember going forward.
+
+## IV. Practical Applications:
+
+Over the past school year, I noticed that AI has become really big when it comes to generating images and videos. In one hand, if used for entertainment and for things that are not too serious, I personally see nothing wrong with it (in this aspect). But on the other hand, in the real world perspective, I could see artists losing their jobs if these big companies decide to use AI to make their artistic products instead of commisioninng artists to get those things. I personally really respect those in the art indust ry, so I could definitely see a problem with AI in that regard.
+
+For real-world software engineering challenges, I could see AI being real useful when a particular situation is not too burdened by a bunch of specifics. I think that would be the strength of humans over AI, to be able to understand how the specifics can alter a problem you are handling and to adjust accordingly. Though, I could definitely see this as being less of a problem as AI gets more advanced.
+
+## V. Challenges and Opportunities:
+
+The number one challenge I see with regards to using AI in this course is how to not have AI do all the coding students have to do. I say this is a challenge because it is really hard to stop someone from getting an answer quickly, and that is what AI is doing for students (in my opinion). "Why think so hard when AI can do it so much faster?" This is a question that, I think, will be really hard to balance along with actually learning and understanding material. Though, I can see AI being a really powerful tool if asking the right questions, such as: "Why does _____ do _____?", etc. 
+
+## VI. Comparative Analysis:
+
+The biggest benefit that, I think, AI-enhanced teaching methods have over the traditional approaches is that things can be done a lot more quicker with the help of AI, and if used correctly, can potentially speed up the learning process as well. For traditional methods, I could see the knowledge retention be more deep since it is possibly more hands-on, and thus, have actual skills developed since you know, AI is not doing everything for you. (Hmm...I think I might be biased against AI, can you tell?)
+
+## VII. Future Considerations:
+
+In my opinion, I hope the use of AI in education is a bit more regulated in the future because I feel like AI is taking away our ability to think. Artifical Intelligence should be used as a tool to aid us in our learning, and not as something that replaces our biggest advantage as human beings. That being said, I could imagine that it would be very hard to regulate as AI is the new big thing in the current technological world, where we as people want things to be done quick and easy.
+
+## VIII. Conclusion:
 
 
 
