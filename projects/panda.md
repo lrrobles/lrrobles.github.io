@@ -4,7 +4,7 @@ type: project
 image: img/Panda.png
 title: "PANDA"
 date: 2024
-published: true
+published: false
 labels:
   - Programming
   - Algorithms
