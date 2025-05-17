@@ -6,8 +6,10 @@ title: "Campus Plate Mate"
 date: 2025
 published: true
 labels:
-  - TypeScript
-summary: "I joined the PANDA club at UH Manoa in 2024."
+  - React
+  - Next.js
+  - React Bootstrap
+summary: "A project to help reduce food waste."
 ---
 
 For the final project in my ICS 314 Software Engineering class taken in Spring 2025, five other people and I have developed a web application called "Campus Plate Mate". It is a platform where UH Manoa community members can give out their unwanted or excess food to other community members in need. The goal of Campus Plate Mate is to reduce food waste on the UH Manoa campus as it can be very prevalent, and we wanted to provide a platform where UH Manoa community members can interact with each other regarding their food or waste-reducing needs.
