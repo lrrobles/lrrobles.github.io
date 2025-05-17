@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Panda.png
+image: img/campus-plate-mate/cpm-logo.png
 title: "Campus Plate Mate"
 date: 2025
 published: true
