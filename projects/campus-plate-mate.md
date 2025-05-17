@@ -10,9 +10,7 @@ labels:
 summary: "I joined the PANDA club at UH Manoa in 2024."
 ---
 
-In Fall 2024, I wanted to try get more involved in things related to computer science so I joined PANDA (Programming AND Algorithms) in the Fall of 2024. Each meeting, a group lead would direct and help us solve problems that would be similar to ones we would see in coding interviews. They would try and encourage us to participate and write things on the whiteboard so we would not just sit there and do nothing. After enough time has passed, the solution would be found and the lead would go over how we got to our particular answer.
+For the final project in my ICS 314 Software Engineering class taken in Spring 2025, five other people and I have developed a web application called "Campus Plate Mate". It is a platform where UH Manoa community members can give out their unwanted or excess food to other community members in need. The goal of Campus Plate Mate is to reduce food waste on the UH Manoa campus as it can be very prevalent, and we wanted to provide a platform where UH Manoa community members can interact with each other regarding their food or waste-reducing needs.
 
-I was able to contribute some of my thoughts during the discussions and did write down some code. In some meetings, my group had people who were both vocal and knowledgable so it was hard for me to give my input, but I did try my best to understand what was going on throughout the problem solving. 
-
-One of the things I learned during my time at PANDA is that I still have a long way to go when to comes to problem solving and it will take a lot of hard work to get there. In my following semesters at PANDA, I am going to try to participate more and give my input during the discussions. I will also bring a notebook so I can write down some notes and the solutions to the problems so I can study them for later. 
+My biggest contributions to the project are the "Sign In/Up" page, where it acts as a slider form and you can choose whether you want to sign in or sign up (create an account), as well as the "Dashboard" page, where the posts by users are shown as cards. The slider form was requested by my fellow group mate and is from [here](https://codepen.io/FlorinPop17/pen/vPKWjd), while the Dashboard page reads from a database where it reads the posts created by users.
 
