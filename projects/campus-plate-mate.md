@@ -31,3 +31,5 @@ Dashboard
 One of the things I learned from this experience is that my group and I should have committed to the goals of each Milestone of the project. For example, Milestone 1 of the project should have taken care of most of the visual aspects of our web application, but we were still working on visuals during Milestone 2 and Milestone 3. Another thing I learned is that communication is really important in small-scale group projects like these. I noticed that when I saw my other group mates post about what they completed, I would then get a "drive" or "push" to reciprocate in the form of getting something done. Aside from this case, asking and answering questions is also vital because it builds a positive relationship within the group. If I saw a question, I would try my best to answer it or at least give ideas that can possibly lead to a solution. 
 
 Overall, working on Campus Plate Mate taught me how to work in a group setting which will be valuable when entering the workforce.
+
+Our [Organization Github Page](https://github.com/campusplatemate).
