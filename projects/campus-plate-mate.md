@@ -17,7 +17,7 @@ For the final project in my ICS 314 Software Engineering class taken in Spring 2
 My biggest contributions to the project are the "Sign In/Up" page, where it acts as a slider form and you can choose whether you want to sign in or sign up (create an account), as well as the "Dashboard" page, where the posts by users are shown as cards. The slider form was requested by my fellow group mate and is from [here](https://codepen.io/FlorinPop17/pen/vPKWjd), while the Dashboard page reads from a database where it reads the posts created by users.
 
 <div class="row">
-  Sign In/Up Slider
+  Sign In/Up Slider<br/>
   
   <img class="img-fluid" width="500px" src="../img/campus-plate-mate/signin-slide.png">
   
